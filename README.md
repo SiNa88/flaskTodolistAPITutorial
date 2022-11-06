@@ -1,3 +1,3 @@
-# Flask Todo-list API Tutorial
+# Flask API tutorial
 
-### Learn to create and deploy a flask todo list API on heroku, video series on my youtube channel
+### Create and deploy a flask API
